@@ -1,6 +1,7 @@
 ;;; svg-battery-indicator.el --- Display an SVG battery icon  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2023  Hugo Heagren
+;; Copyright (C) 2024 Samuel W. Flint
 
 ;; Author: Hugo Heagren <hugo@heagren.com>
 ;; Keywords: convenience, image

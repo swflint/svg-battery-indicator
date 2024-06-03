@@ -1,5 +1,7 @@
 #+title: svg-battery-indicator.el
 
+This is a fork of [[https://github.com/Hugo-Heagren/svg-battery-indicator][Hugo Heagren's original implementation]].
+
 This is a simple package for generating an SVG battery indicator for
 us in the mode-line or tab-bar. It's not on MELPA or Gnu Elpa, so
 you'll have to install it manually, or using a GitHub helper like
